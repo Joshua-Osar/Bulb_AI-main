@@ -246,11 +246,7 @@ function App() {
               </div>
             </div>
 
-            <div className="bg-white p-8 rounded-2xl shadow-lg">
-              <div className="text-gray-400 text-center py-16 border-2 border-dashed border-gray-200 rounded-lg">
-                [Image: Split-screen showing simple query input transforming into complex analysis with charts]
-              </div>
-            </div>
+            
           </div>
         </div>
       </section>
