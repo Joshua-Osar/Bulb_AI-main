@@ -108,7 +108,7 @@ function App() {
                 anomalies, and relationships across your datasets.
               </p>
               <div className="mt-4 text-sm text-gray-500">
-                [Image: Data profiling dashboard with statistics and quality scores]
+                
               </div>
             </div>
 
@@ -123,7 +123,7 @@ function App() {
                 or use both to validate results and enhance reproducibility.
               </p>
               <div className="mt-4 text-sm text-gray-500">
-                [Image: Side-by-side SQL and Python code editor with syntax highlighting]
+                
               </div>
             </div>
 
@@ -138,7 +138,7 @@ function App() {
                 that maintain data integrity while improving accuracy.
               </p>
               <div className="mt-4 text-sm text-gray-500">
-                [Image: Data quality report with AI recommendations and fix suggestions]
+                
               </div>
             </div>
 
@@ -153,7 +153,7 @@ function App() {
                 Handle multi-format data and complex joins across tables effortlessly.
               </p>
               <div className="mt-4 text-sm text-gray-500">
-                [Image: Database connection interface showing multiple supported systems]
+                
               </div>
             </div>
 
@@ -168,7 +168,7 @@ function App() {
                 queries for presentations, reports, or further analysis.
               </p>
               <div className="mt-4 text-sm text-gray-500">
-                [Image: Interactive chart gallery with export options]
+                
               </div>
             </div>
 
@@ -183,7 +183,7 @@ function App() {
                 and get optimized queries that reflect your intent.
               </p>
               <div className="mt-4 text-sm text-gray-500">
-                [Image: Natural language query input with generated SQL output]
+                
               </div>
             </div>
           </div>
