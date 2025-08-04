@@ -79,12 +79,6 @@ function App() {
               </div>
             )}
             
-            {/* Visual Placeholder */}
-            <div className="bg-white rounded-2xl shadow-2xl border border-gray-200 p-8 max-w-5xl mx-auto">
-              <div className="text-gray-400 text-center py-16 border-2 border-dashed border-gray-200 rounded-lg">
-                [Interactive Dashboard Preview - Showing dual SQL/Python output with live charts]
-              </div>
-            </div>
           </div>
         </div>
       </section>
