@@ -292,9 +292,15 @@ function App() {
             Join data teams already saving hours every week with intelligent automation
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <button className="bg-white text-blue-600 px-8 py-4 rounded-lg text-lg font-semibold hover:bg-gray-100 transition-all transform hover:scale-105 shadow-lg">
+              <a 
+              href="https://zr1qvstt-5000.use.devtunnels.ms/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-white text-blue-600 px-8 py-4 rounded-lg text-lg font-semibold hover:bg-gray-100 transition-all transform hover:scale-105 shadow-lg"
+              >
               Start Your Free Trial
-            </button>
+              </a>
+            
             <button className="border-2 border-white text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-white hover:text-blue-600 transition-colors">
               Schedule Demo
             </button>
