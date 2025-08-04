@@ -270,8 +270,8 @@ function App() {
                 <span className="text-lg font-semibold">SM</span>
               </div>
               <div className="text-left">
-                <p className="font-semibold">Sarah Martinez</p>
-                <p className="text-blue-100">Senior Data Analyst, TechFlow Solutions</p>
+                <p className="font-semibold">Saadat Ore</p>
+                <p className="text-blue-100">Senior HR Data Analyst, Jada</p>
               </div>
             </div>
           </div>
@@ -323,7 +323,7 @@ function App() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm">
-            <p>&copy; 2024 Bulb AI. All rights reserved.</p>
+            <p>&copy; 2025 Bulb AI. All rights reserved.</p>
           </div>
         </div>
       </footer>
