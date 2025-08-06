@@ -35,7 +35,7 @@ function App() {
             </h1>
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
               Transform raw data into actionable insights with intelligent automation. Generate SQL and Python code, 
-              detect quality issues, and create stunning visualizations—all from a single, intuitive interface.
+              detect quality issues, and create stunning visualizations all from a single, intuitive interface.
             </p>
             <p className="text-lg text-gray-700 mb-12 max-w-3xl mx-auto">
               Bulb AI combines the power of contextual artificial intelligence with enterprise-grade data processing 
